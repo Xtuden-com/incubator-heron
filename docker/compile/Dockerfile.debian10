@@ -15,7 +15,7 @@
 #  specific language governing permissions and limitations
 #  under the License.
 
-FROM openjdk:11.0.6-jdk-buster
+FROM openjdk:11.0.8-jdk-buster
 
 # This is passed to the heron build command via the --config flag
 ENV TARGET_PLATFORM debian
