@@ -14,7 +14,7 @@
 #  KIND, either express or implied.  See the License for the
 #  specific language governing permissions and limitations
 #  under the License.
-FROM node:8.11.4
+FROM node:8.16.2
 
 WORKDIR /app/website
 
